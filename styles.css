@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+body{
+  background-color:#e6ffff;;
+}
+hr{
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3px;
+  width: 7%;
+}
+h1, h3{
+    font-family: "Rancho", cursive;
+  color: #66bfbf
+}
